@@ -1,9 +1,20 @@
 # Planets_API
 
 An implementation of a .NET CORE API that communicates with and manipulates a database with HTTP requests. 
+
+Swagger UI helps visualise the CRUD operations.
+
 The project's data consist of an integer value namely "id", a planet's name as a string value and its distance from the sun in km,
 also as a string value.
 
+So, the data are in the form of:
+
+1) id: integer
+2) name: string
+3) distance: string
+
+
+<h1>The visualization in Swagger is as follows:</h1>
 
 
 ![Interface_updated](https://github.com/JohnSymeon/Planets_API/assets/125981941/d81793ec-735c-4ff5-94a0-974288e74bdd)
